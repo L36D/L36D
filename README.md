@@ -18,13 +18,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IL01DI&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-# Spotify
-<div align="center">
-  <a href="https://open.spotify.com/user/v3zwo98rmsqnjdgoyywj9oc4f">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=v3zwo98rmsqnjdgoyywj9oc4f&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 # Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -48,8 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-# Discord
+# Discord & Spotify
 <div align="center">
-<a href="https://discord.com/users/477856586765828127" >
-  <img src="https://lanyard.cnrad.dev/api/477856586765828127"  />
+  <a href="https://discord.com/users/477856586765828127" >
+    <img src="https://lanyard.cnrad.dev/api/477856586765828127"  />
   </a>
+  <a href="https://open.spotify.com/user/v3zwo98rmsqnjdgoyywj9oc4f">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=v3zwo98rmsqnjdgoyywj9oc4f&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
