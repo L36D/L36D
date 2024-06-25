@@ -49,4 +49,7 @@
 </div>
 
 # Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/477856586765828127)](https://discord.com/users/477856586765828127)
+<div align="center">
+<a href="https://discord.com/users/477856586765828127" >
+  <img src="https://lanyard.cnrad.dev/api/477856586765828127"  />
+  </a>
