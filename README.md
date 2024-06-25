@@ -1,5 +1,3 @@
-
-I don't care about this, but please don't look my profile around.
 <img src="https://raw.githubusercontent.com/IL01DI/IL01DI/output/snake.svg" alt="Snake animation" />
 
 ###
