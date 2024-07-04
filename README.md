@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/477856586765828127" />
+</div>
+
 <img src="https://raw.githubusercontent.com/IL01DI/IL01DI/output/snake.svg" alt="Snake animation" />
 
 # Stats
