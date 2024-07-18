@@ -77,5 +77,4 @@ ccccccccccccccccccccccccccccc:'.          Terminal Font: Source Code Pro (10pt)
                                           Local IP (wlo1): 192.168.1.49/24 *
                                           Battery: 60% [AC Connected]
                                           Locale: en_GB.UTF-8
-                                          
 ```
