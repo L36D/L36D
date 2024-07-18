@@ -52,7 +52,7 @@
 ```
              .',;::::;,'.                 l01d@fedora
          .';:cccccccccccc:;,.             -----------
-      .;cccccccccccccccccccccc;.          OS: Fedora Linux 40 (Workstation Edit4
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 40 (Workstation Edition)
     .:cccccccccccccccccccccccccc:.        Host: Prestige 14 A11SCX (REV:1.0)
   .;ccccccccccccc;.:dddl:.;ccccccc;.      Kernel: Linux 6.9.9-200.fc40.x86_64
  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     Packages: 2046 (rpm), 3 (flatpak)
