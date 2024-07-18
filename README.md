@@ -74,7 +74,5 @@ ccccccccccccccccccccccccccccc:'.          Terminal Font: Source Code Pro (10pt)
                                           Memory: 15,32 GiB
                                           Swap: 8,00 GiB
                                           Disk (/): 97,64 GiB s
-                                          Disk (/run/media/l01d/Ext Storage): 7k
-                                          Local IP (wlo1): 192.168.1.49/24 *
                                           Locale: en_GB.UTF-8
 ```
