@@ -1,3 +1,5 @@
+# Hi! Welcome to my profile :]
+
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/477856586765828127" />
 </div>
@@ -22,7 +24,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IL01DI&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-# Tools
+# Stacks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
@@ -44,3 +46,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+# Specs
+
+```
+             .',;::::;,'.                 l01d@fedora
+         .';:cccccccccccc:;,.             -----------
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 40 (Workstation Edit4
+    .:cccccccccccccccccccccccccc:.        Host: Prestige 14 A11SCX (REV:1.0)
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      Kernel: Linux 6.9.9-200.fc40.x86_64
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     Packages: 2046 (rpm), 3 (flatpak)
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    Shell: bash 5.2.26
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    Display (BOE06DF): 1920x1080 @ 60Hz []
+:cccccccccccccc;MMM.;cccccccccccccccc:    DE: GNOME 46.3.1
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:    WM: Mutter (Wayland)
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    WM Theme: Adwaita
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'    Theme: Adwaita [GTK2/3/4]
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Icons: Adwaita [GTK2/3/4]
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      Font: Cantarell (11pt) [GTK2/3/4]
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       Cursor: Adwaita (24px)
+cccccccc;.:odl:.;cccccccccccccc:,.        Terminal: GNOME Terminal 3.50.1
+ccccccccccccccccccccccccccccc:'.          Terminal Font: Source Code Pro (10pt)
+:ccccccccccccccccccccccc:;,..             CPU: 11th Gen Intel(R) Core(TM) i7-11z
+ ':cccccccccccccccc::;,.                  GPU 1: Intel Iris Xe Graphics @ 1,35 ]
+                                          GPU 2: NVIDIA GeForce GTX 1650 Mobile]
+                                          Memory: 6,87 GiB / 15,32 GiB (45%)
+                                          Swap: 0 B / 8,00 GiB (0%)
+                                          Disk (/): 84,51 GiB / 97,64 GiB (87%)s
+                                          Disk (/run/media/l01d/Ext Storage): 7k
+                                          Local IP (wlo1): 192.168.1.49/24 *
+                                          Battery: 60% [AC Connected]
+                                          Locale: en_GB.UTF-8
+                                          
+```
