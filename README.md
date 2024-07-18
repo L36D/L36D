@@ -50,6 +50,7 @@
 # Specs
 
 ```
+l01d@fedora:~$ fastfetch
              .',;::::;,'.                 l01d@fedora
          .';:cccccccccccc:;,.             -----------
       .;cccccccccccccccccccccc;.          OS: Fedora Linux 40 (Workstation Edition)
