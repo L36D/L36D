@@ -70,11 +70,10 @@ ccccccccccccccccccccccccccccc:'.          Terminal Font: Source Code Pro (10pt)
 :ccccccccccccccccccccccc:;,..             CPU: 11th Gen Intel(R) Core(TM) i7-11z
  ':cccccccccccccccc::;,.                  GPU 1: Intel Iris Xe Graphics @ 1,35 ]
                                           GPU 2: NVIDIA GeForce GTX 1650 Mobile]
-                                          Memory: 6,87 GiB / 15,32 GiB (45%)
-                                          Swap: 0 B / 8,00 GiB (0%)
-                                          Disk (/): 84,51 GiB / 97,64 GiB (87%)s
+                                          Memory: 15,32 GiB
+                                          Swap: 8,00 GiB
+                                          Disk (/): 97,64 GiB s
                                           Disk (/run/media/l01d/Ext Storage): 7k
                                           Local IP (wlo1): 192.168.1.49/24 *
-                                          Battery: 60% [AC Connected]
                                           Locale: en_GB.UTF-8
 ```
