@@ -4,14 +4,14 @@
 <div align="right">
   <picture>
     <source
-      srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark?idleMessage=Resting"
+      srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark&idleMessage=Resting"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=light"
+      srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=light&idleMessage=Resting"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://lanyard.cnrad.dev/api/477856586765828127" />
+    <img src="https://lanyard.cnrad.dev/api/477856586765828127&idleMessage=Resting" />
   </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=il01di&show_icons=true&theme=transparent" />
 </div>
