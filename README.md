@@ -4,7 +4,7 @@
 <div align="right">
   <picture>
     <source
-      srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark"
+      srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark?idleMessage=Resting"
       media="(prefers-color-scheme: dark)"
     />
     <source
