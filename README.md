@@ -18,8 +18,10 @@ visitor@github: ~ $ sudo
 Enter the password: *************
 
 Error:
-  Hi!
-  Welcome to my profile :]
+    Hi!
+    Welcome to my profile :]
+    Trying to enter my profile, uh...
+    
 ```
 
 <div align="center">
