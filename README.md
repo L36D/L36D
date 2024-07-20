@@ -1,6 +1,7 @@
-# Hi! Welcome to my profile :]
-
+# 
 ## Overview
+
+
 <div align="right">
   <picture>
     <source
@@ -13,8 +14,12 @@
     />
     <img src="https://lanyard.cnrad.dev/api/477856586765828127&idleMessage=Resting" />
   </picture>
+</div>
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=il01di&show_icons=true&theme=transparent" />
 </div>
+
+Hi! Welcome to my profile :]
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/IL01DI/IL01DI/output/snake.svg" alt="Snake animation" />
