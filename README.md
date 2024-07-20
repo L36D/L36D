@@ -1,9 +1,6 @@
-# 
+# L01D
 ## Overview
-
-
-<div align="right">
-  <picture>
+<picture>
     <source
       srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark&idleMessage=Resting"
       media="(prefers-color-scheme: dark)"
@@ -12,14 +9,18 @@
       srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=light&idleMessage=Resting"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://lanyard.cnrad.dev/api/477856586765828127&idleMessage=Resting" />
-  </picture>
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=il01di&show_icons=true&theme=transparent" />
-</div>
+    <img src="https://lanyard.cnrad.dev/api/477856586765828127&idleMessage=Resting" align="right"/>
+</picture>
 
-Hi! Welcome to my profile :]
+```yml
+visitor@github: ~ $ sudo
+-------------------------------------------------------------------
+Enter the password: *************
+
+Error:
+  Hi!
+  Welcome to my profile :]
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/IL01DI/IL01DI/output/snake.svg" alt="Snake animation" />
@@ -28,22 +29,27 @@ Hi! Welcome to my profile :]
 ## Stats
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=1"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly&theme=github_light&hide_border=false&border_radius=5&order=1"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly" />
-  </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IL01DI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=il01di&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&order1" alt="L01D's Github Stats" />    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IL01DI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2"/>
 </div>
 
 ###
-  
+
+<div align=center>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly&theme=github_light&hide_border=false&border_radius=5&order=1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly" />
+</picture>
+</div>
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=IL01DI&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
