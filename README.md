@@ -21,7 +21,6 @@ Error:
     Hi!
     Welcome to my profile :]
     Trying to enter my profile, uh...
-    
 ```
 
 <div align="center">
