@@ -1,7 +1,7 @@
 # Hi! Welcome to my profile :]
 
 ## Overview
-<div align="center">
+<div align="right">
   <picture>
     <source
       srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark"
