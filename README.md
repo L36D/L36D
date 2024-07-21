@@ -1,5 +1,9 @@
 # About me
 ## Overview
+<!-- 
+<a href="https://gitroll.io/profile/u1L8owIn6FSSQPF9BcfALell19ME2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u1L8owIn6FSSQPF9BcfALell19ME2" alt="GitRoll Profile Badge" align="right" height="210" /></a>
+-->
+
 <picture>
     <source
       srcset="https://lanyard.cnrad.dev/api/477856586765828127?theme=dark&idleMessage=Resting"
