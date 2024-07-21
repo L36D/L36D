@@ -32,7 +32,7 @@ Error:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=il01di&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&order1" alt="L01D's Github Stats" />    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IL01DI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IL01DI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&theme=transparent&order=2"/>
 </div>
 
 ###
