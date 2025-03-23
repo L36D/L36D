@@ -35,8 +35,8 @@ Error:
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=il01di&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&order1" alt="L01D's Github Stats" height="185px" />    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IL01DI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&theme=transparent&order=2" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=l36d&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&order1" alt="L36D's Github Stats" height="185px" />    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L36D&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&theme=transparent&order=2" height="185px" />
 </div>
 
 ###
@@ -44,32 +44,32 @@ Error:
 <div align=center>
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=1"
+    srcset="https://streak-stats.demolab.com?user=L36D&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly&theme=github_light&hide_border=false&border_radius=5&order=1"
+    srcset="https://streak-stats.demolab.com?user=L36D&locale=en&mode=weekly&theme=github_light&hide_border=false&border_radius=5&order=1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com?user=IL01DI&locale=en&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=L36D&locale=en&mode=weekly" />
 </picture>
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=IL01DI&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=L36D&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=IL01DI&radius=16&theme=github-dark&area=true&order=5"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=L36D&radius=16&theme=github-dark&area=true&order=5"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=IL01DI&radius=16&theme=github-light&area=true&order=5"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=L36D&radius=16&theme=github-light&area=true&order=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IL01DI&radius=16" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=L36D&radius=16" />
   </picture>
 </div>
 
